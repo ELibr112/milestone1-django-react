@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "milestone1-django-react",
+			"path": ".."
+		},
+		{
+			"name": "backend",
+			"path": "../../milestone1-flask-react/backend"
+		}
+	],
+	"settings": {}
+}
